@@ -55,7 +55,7 @@ Before running the program, make sure you have the following prerequisites:
 
 ## Screenshots
 
-![User Interface](/Screenshots/Picture1.png)
+![User Interface](/Screenshots/Picture1.gif)
 
 
 ## Author
