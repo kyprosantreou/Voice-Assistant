@@ -52,6 +52,12 @@ Before running the program, make sure you have the following prerequisites:
 - Ensure that you have a working microphone for voice commands.
 - Some features (e.g., Google Calendar, weather) may require an internet connection.
 
+
+## Screenshots
+
+![User Interface](/Screenshots/Picture1.png)
+
+
 ## Author
 
 Created by [Kypros Andreou].
