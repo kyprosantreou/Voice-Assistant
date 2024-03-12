@@ -60,6 +60,6 @@ Before running the program, make sure you have the following prerequisites:
 
 ## Author
 
-Created by [Kypros Andreou].
+Created by Kypros Andreou.
 
 
