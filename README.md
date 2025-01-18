@@ -38,7 +38,7 @@ Before running the program, make sure you have the following prerequisites:
 
 1. Clone or download the repository.
 2. Obtain the `credentials.json` file by setting up a Google Cloud project and enabling the Google Calendar API. Place the `credentials.json` file in the same directory as the script.
-3. Run the `voice_assistant.py` script using a Python interpreter (`python voice_assistant.py`).
+3. Run the `Voice_Assistant_GUI.py` script using a Python interpreter (`python Voice_Assistant_GUI.py`).
 
 ## Usage
 
